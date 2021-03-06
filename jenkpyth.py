@@ -37,7 +37,7 @@ class AlphaCheck:
 
 #The following code gets input and calls the function to do needed actions
 
-a = 'Welcome to TCS'
+a = 'Hello Everyone This is my new project'
 b = 'T'
 result = AlphaCheck(a, b)
 
