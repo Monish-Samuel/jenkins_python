@@ -38,7 +38,7 @@ class AlphaCheck:
 #The following code gets input and calls the function to do needed actions
 
 a = 'Hello Everyone This is my new project'
-b = 'T'
+b = 'o'
 result = AlphaCheck(a, b)
 
 result.word_length(a)
