@@ -19,5 +19,10 @@ pipeline {
                 echo 'the job has been tested'
             }
         }
+        stage('Deploy'){
+            steps{
+                echo 'Deployed successfully'
+            }
+        }
     }
 }
